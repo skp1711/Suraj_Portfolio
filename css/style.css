@@ -579,7 +579,9 @@ body.offcanvas {
   margin-left: 60px;
   -webkit-background-clip: padding-box;
   -moz-background-clip: padding;
-  background-clip: padding-box; }
+  background-clip: padding-box;
+  text-align: justify;
+ }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label:after {
   content: '';
